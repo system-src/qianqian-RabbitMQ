@@ -8,7 +8,7 @@ import com.rabbitmq.client.Connection;
 
 /**
  * confirm 普通模式
- * @author qianxia
+ * @author qianqian
  *
  */
 public class Provider1 {
