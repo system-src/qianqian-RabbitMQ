@@ -24,9 +24,9 @@ public class ConnectionUtils {
 		//设置VirtualHost
 		factory.setVirtualHost("/qianxia");
 		//设置用户名
-		factory.setUsername("qianxia");
+		factory.setUsername("********");
 		//设置密码
-		factory.setPassword("654321");
+		factory.setPassword("********");
 		return factory.newConnection();
 	}
 }
